@@ -1,0 +1,1 @@
+docker stop local-message-springboot-starter
